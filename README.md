@@ -1,1 +1,3 @@
 # Compendio
+Questo compendio di studi sulla programmazione in C++ è stato creato come un riepilogo e un riferimento per gli studenti della classe 4A dell'ITIS Molinari. Da concetti fondamentali come variabili e cicli, a temi più avanzati come puntatori, strutture dati dinamiche, ereditarietà e programmazione generica, ogni sezione riflette le lezioni apprese in aula e in laboratorio.
+In questo compendio, abbiamo cercato di catturare la ricchezza e la profondità del corso di studi in C++ presso l'ITIS Molinari. Ma più di tutto, questo compendio è un tributo all'importanza dell'educazione e dell'apprendimento continuo. Speriamo che serva non solo come un utile strumento di revisione, ma anche come un promemoria del valore dell'indagine intellettuale e della scoperta.
